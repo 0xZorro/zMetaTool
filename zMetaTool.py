@@ -90,7 +90,7 @@ def read_JPGmeta(input_path):
         for tag_id, value in gps_ifd.items():
             tag_name = piexif.TAGS["GPS"][tag_id]["name"]
             # Decode specific GPS metadata fields that are stored as byte strings with EXIF padding.
-            # - GPSProcessingMethod indicates how the location was determined (e.g. GPS, CELLID, WLAN).
+            # GPSProcessingMethod indicates how the location was determined (e.g. GPS, CELLID, WLAN).
             # These value are decoded from ASCII and cleaned of null bytes.
             if tag_name == "GPSProcessingMethod" and isinstance(value, bytes):
                 decoded = value.decode("ascii", errors="ignore").replace("\x00", " ")
