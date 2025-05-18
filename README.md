@@ -94,8 +94,8 @@ CreationDate: D:20240512123000
 ```bash
 Make:         Canon
 Model:        EOS 700D
-GPSLatitude:  ((50, 1), (43, 1), (209033, 10000))
-GPSLongitude: ((12, 1), (27, 1), (376618, 10000))
+GPSLatitude:  ((53, 1), (41, 1), (229033, 10000))
+GPSLongitude: ((11, 1), (29, 1), (306618, 10000))
 ```
 
 ---
