@@ -3,7 +3,7 @@
 </p>
 
 <p align="right">
-  <a href="./README_en.md">Switch to English version</a>
+  <a href="./README_EN.md">Switch to English version</a>
 </p>
 
 # zMetaTool – PDF & JPG Metadata Inspector
