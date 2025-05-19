@@ -104,8 +104,8 @@ GPSLongitude: ((11, 1), (29, 1), (376618, 10000))
 
 ## Documentation
 
-- [PDF Metadata – Read & Write (meta_pdf.md)](./doc_EN/metaEN_pdf.md)
-- [JPG Metadata – Read & Write (meta_jpg.md)](./doc_EN/metaEN_jpg.md)
+- [PDF Metadata – Read & Write (meta_pdf.md)](./doc_EN/meta_pdf_en.md)
+- [JPG Metadata – Read & Write (meta_jpg.md)](./doc_EN/meta_jpg_en.md)
 
 ---
 
